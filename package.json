@@ -1,7 +1,7 @@
 {
   "name": "raidencashcore-insight-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the RaidenCash network and build your own services with it.",
-  "version": "3.1.7",
+  "version": "3.1.8",
   "repository": "git://github.com/solaris-rig/raidencashcore-insight-ui.git",
   "contributors": [],
   "bugs": {
